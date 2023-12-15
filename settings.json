@@ -1,0 +1,36 @@
+{
+    "security.workspace.trust.untrustedFiles": "open",
+    "files.autoSave": "afterDelay",
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "compile-hero.scss-output-directory": "../css",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "rapidapi.terminalLink.enabled": false,
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "explorer.confirmDragAndDrop": false,
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "gitlens.advanced.messages": {
+        "suppressLineUncommittedWarning": true
+    },
+    "terminal.integrated.env.windows": {},
+    "workbench.iconTheme": "material-icon-theme",
+    "console-ninja.featureSet": "Community",
+    "editor.fontLigatures": "'calt', 'liga', 'dlig', 'ss01', 'ss02', 'ss03', 'ss06', 'ss07', 'ss08'",
+    "editor.fontFamily": "'Monaspace Argon', monospace",
+    "workbench.colorTheme": "Shades of Purple (Super Dark)",
+    "tabnine.experimentalAutoImports": true,
+    "editor.cursorStyle": "block",
+    "explorer.confirmDelete": false,
+    "cSpell.userWords": [
+        "hygraph"
+    ],
+}
